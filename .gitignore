@@ -1,0 +1,23 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+
+# VS Code settings (optional - you might want to keep these)
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+InstallationLog.txt
